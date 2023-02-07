@@ -1,0 +1,26 @@
+.h1
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-style: oblique;
+    color: blue;
+    letter-spacing: 2px;
+}
+
+.h2
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-style: oblique;
+    color: green;
+    letter-spacing: 10px;
+}
+
+.h3
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 10px;
+    font-style:inherit;
+    color: red;
+    letter-spacing: 6px;
+}
